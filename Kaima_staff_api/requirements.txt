@@ -1,2 +1,4 @@
 django 
 djangorestframework
+
+then create two subclasses called "Manager" and "Intern" with fields sprcific to them. The manager model should contain at least "department(CharField)" & "has_company_card(BooleanField with default to yes)" in it"s field while the Intern model should have "mentor will have relationship with the Manager model," & "internship end date(a DateField)"
