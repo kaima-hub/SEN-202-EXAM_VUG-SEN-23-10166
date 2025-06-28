@@ -1,8 +1,2 @@
 django 
 djangorestframework
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/kaima-hub/SEN-202-EXAM_VUG-SEN-23-10166.git
-git push -u origin main
